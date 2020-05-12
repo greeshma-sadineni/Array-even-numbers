@@ -1,0 +1,13 @@
+F:\.Net Programs\Array even numbers\Array even numbers\bin\Debug\netcoreapp3.1\Array even numbers.exe
+F:\.Net Programs\Array even numbers\Array even numbers\bin\Debug\netcoreapp3.1\Array even numbers.deps.json
+F:\.Net Programs\Array even numbers\Array even numbers\bin\Debug\netcoreapp3.1\Array even numbers.runtimeconfig.json
+F:\.Net Programs\Array even numbers\Array even numbers\bin\Debug\netcoreapp3.1\Array even numbers.runtimeconfig.dev.json
+F:\.Net Programs\Array even numbers\Array even numbers\bin\Debug\netcoreapp3.1\Array even numbers.dll
+F:\.Net Programs\Array even numbers\Array even numbers\bin\Debug\netcoreapp3.1\Array even numbers.pdb
+F:\.Net Programs\Array even numbers\Array even numbers\obj\Debug\netcoreapp3.1\Array even numbers.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Array even numbers\Array even numbers\obj\Debug\netcoreapp3.1\Array even numbers.AssemblyInfoInputs.cache
+F:\.Net Programs\Array even numbers\Array even numbers\obj\Debug\netcoreapp3.1\Array even numbers.AssemblyInfo.cs
+F:\.Net Programs\Array even numbers\Array even numbers\obj\Debug\netcoreapp3.1\Array even numbers.dll
+F:\.Net Programs\Array even numbers\Array even numbers\obj\Debug\netcoreapp3.1\Array even numbers.pdb
+F:\.Net Programs\Array even numbers\Array even numbers\obj\Debug\netcoreapp3.1\Array even numbers.genruntimeconfig.cache
+F:\.Net Programs\Array even numbers\Array even numbers\obj\Debug\netcoreapp3.1\Array even numbers.csprojAssemblyReference.cache
